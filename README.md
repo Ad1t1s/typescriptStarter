@@ -1,4 +1,4 @@
-//starter project with NodeJS+express+typescript+mocha
+//starter project with NodeJS+express+typescript+mocha+eslint+prettier
 
 **For Development**
 after clone project use this command
